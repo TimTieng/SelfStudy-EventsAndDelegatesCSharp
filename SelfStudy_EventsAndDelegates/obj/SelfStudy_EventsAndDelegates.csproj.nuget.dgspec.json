@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/timtieng/Projects/SelfStudy_EventsAndDelegates/SelfStudy_EventsAndDelegates/SelfStudy_EventsAndDelegates.csproj": {}
+  },
+  "projects": {
+    "/Users/timtieng/Projects/SelfStudy_EventsAndDelegates/SelfStudy_EventsAndDelegates/SelfStudy_EventsAndDelegates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/timtieng/Projects/SelfStudy_EventsAndDelegates/SelfStudy_EventsAndDelegates/SelfStudy_EventsAndDelegates.csproj",
+        "projectName": "SelfStudy_EventsAndDelegates",
+        "projectPath": "/Users/timtieng/Projects/SelfStudy_EventsAndDelegates/SelfStudy_EventsAndDelegates/SelfStudy_EventsAndDelegates.csproj",
+        "packagesPath": "/Users/timtieng/.nuget/packages/",
+        "outputPath": "/Users/timtieng/Projects/SelfStudy_EventsAndDelegates/SelfStudy_EventsAndDelegates/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/timtieng/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
